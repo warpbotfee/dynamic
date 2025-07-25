@@ -4,6 +4,7 @@
     "gasMiddle": "0.003",
     "gasHigh": "0.007",
     "gmgnTip": "0.00019",
+    "gmgnTipMiddle": "0.002",
     "gmgnTipHigh": "0.005",
     "gmgnFeeAccount": "BB5dnY55FXS1e1NXqZDwCzgdYJdMCj3B92PU6Q5Fb6DT",
     "uselessFeeAccounts": [
