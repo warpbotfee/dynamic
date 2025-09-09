@@ -1,10 +1,10 @@
 {
     "tip": "0.00016",
     "gas": "0.00091",
-    "gasMiddle": "0.00388",
+    "gasMiddle": "0.005",
     "gasHigh": "0.009",
     "gmgnTip": "0.00013",
-    "gmgnTipMiddle": "0.002",
+    "gmgnTipMiddle": "0.0015",
     "gmgnTipHigh": "0.0038",
     "gmgnFeeAccount": "BB5dnY55FXS1e1NXqZDwCzgdYJdMCj3B92PU6Q5Fb6DT",
     "uselessFeeAccounts": [
